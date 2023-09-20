@@ -1,0 +1,17 @@
+1. Persistent layer design
+
+In this lab, you will make a flat star schema ER diagram for Data Warehouse. Use the flight delays dataset: https://www.kaggle.com/usdot/flight-delays?select=flights.csv to make an initial analysis.
+
+Details
+
+Use a tool of your preference (draw.io is recommended) to make an ER diagram. Follow the next rules:
+
+1. Use every column in the dataset
+
+2. Diagram has to have no complex/custom data types
+
+3. The final design has to follow star schema principles
+
+Results
+
+ER diagram of flight delays dataset.
